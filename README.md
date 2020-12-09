@@ -7,5 +7,7 @@
 - 😄 Pronouns: Agnizab
 - ⚡ Fun fact: Roses are red and violets are blue.
 
+![Ubuntocat](ubuntocat.gif)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThomasErhel&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasErhel&layout=compact&card_width=250&hide_border=true"/>
