@@ -9,18 +9,19 @@ p5.setup = () => {
   background(221, 72, 20);
   octocat = new Octocat();
 
-  octocat.setPuddleColor("#DD4814")
   octocat.setAccessory("UbuntuDesktop")
-  octocat.setEyes("Starstruck")
-  octocat.setMouth("Starstruck")
-  octocat.setProp("Guitar")
-  octocat.setTop("T-shirt")
   octocat.setHair("Short dreadlocks")
   octocat.setHeadgear("Fedora")
+  octocat.setEyes("Starstruck")
+  octocat.setMouth("Starstruck")
+  octocat.setTop("T-shirt")
+  octocat.setProp("Guitar")
+  octocat.noPuddle()
   octocat.ascii()
 };
 
 p5.draw = () => {
   octocat.randomize("hairColor")
+  octocat.randomize("faceColor")
   octocat.draw();
 };
