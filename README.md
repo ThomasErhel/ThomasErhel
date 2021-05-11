@@ -7,6 +7,10 @@
 - 😄 Pronouns: Agnizab
 - ⚡ Fun fact: React is not a framework.
 
+#ZeroKnowledge
+#PracticeMakesPerfect
+#BlackLivesMatter
+
 ![Ubuntocat](ubuntocat.gif)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThomasErhel&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
