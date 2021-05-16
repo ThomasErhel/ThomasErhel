@@ -9,6 +9,7 @@
 
 #ZeroKnowledge
 #PracticeMakesPerfect
+#NeverGiveUp
 #BlackLivesMatter
 
 ![Ubuntocat](ubuntocat.gif)
