@@ -1,7 +1,7 @@
 ### Hi there, I'm Thomas! 👋
 
 - 🔭 I’m currently working on [Mon Pro Web](https://monproweb.io)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on [Ubuntu](https://launchpad.net/~thomaserhel)
 - 📫 How to reach me:  `thomas.erhel@gmail.com`
 - 😄 Pronouns: Agnizab
