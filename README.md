@@ -16,6 +16,7 @@
 #PracticeMakesPerfect
 #NeverGiveUp
 #BlackLivesMatter
+#FreeUkraine
 
 ![Ubuntocat](ubuntocat.gif)
 
