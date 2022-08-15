@@ -12,10 +12,6 @@
 - 🎧 Music: [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
 - ⚡ Fun fact: React is not a framework
 
-🫵 You can't ignore me anymore i'm deserve to be here
-
-⚠️ [Social exclusion](https://en.wikipedia.org/wiki/Social_exclusion) ⚠️
-
 #ZeroKnowledge
 #PracticeMakesPerfect
 #NeverGiveUp
