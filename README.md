@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Google Cloud Architect / Blockchain / Meta / MIT
 - 👯 I’m looking to collaborate on [Ubuntu](https://launchpad.net/~thomaserhel) [Ethereum](https://ethereum.org/fr/contributing/translation-program/contributors/) [React](https://opencollective.com/create-react-app) 
 - 📫 How to reach me:  `thomas.erhel@gmail.com`
-- 👨‍🎓 Achivements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google automation with Python 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦.
+- 👨‍🎓 Achivements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google (Automation with Python) 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦.
 - 🏴‍☠️ Kali enthusiast.
 - ❤️‍🔥 Wikipedia, TED, WWF
 - 💯 Performances : Check my [website](https://monproweb.io) with lighthouse and EcoIndex you will see the truth.
