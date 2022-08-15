@@ -5,10 +5,10 @@
 - 👯 I’m looking to collaborate on [Ethereum](https://ethereum.org/fr/contributing/translation-program/contributors/) [React](https://opencollective.com/create-react-app) [Ubuntu](https://launchpad.net/~thomaserhel)
 - 📫 How to reach me:  `thomas.erhel@gmail.com`
 - 👨‍🎓 Achivements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google (Automation with Python) 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦
-- 🏴‍☠️ Kali enthusiast
-- ❤️‍🔥 WWF, Wikipedia, TED
 - 💯 Performances: Check my [website](https://monproweb.io) with lighthouse and EcoIndex you will see the truth
-- 🧬 20 years + experience in dev stuff and i will not leave until i succeed [The proof](http://jojo5040.free.fr/)
+- 🧬 Experience: 20 years + in dev stuff and i will not leave until i succeed [The proof](http://jojo5040.free.fr/)
+- ❤️‍🔥 WWF, Wikipedia, TED
+- 🏴‍☠️ Kali enthusiast
 - 🎧 Music: [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
 - ⚡ Fun fact: React is not a framework
 
