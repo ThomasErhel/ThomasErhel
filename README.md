@@ -7,7 +7,7 @@
 - 👨‍🎓 Achivements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google automation with Python 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦.
 - 🏴‍☠️ Kali enthusiast.
 - ❤️‍🔥 Wikipedia, TED, WWF
-- 💯 Performance : Check my [website](https://monproweb.io) with lighthouse and EcoIndex you will se the truth.
+- 💯 Performances : Check my [website](https://monproweb.io) with lighthouse and EcoIndex you will see the truth.
 - 🧬 20 years + experience in dev stuff and i will not leave until i succeed. [The proof](http://jojo5040.free.fr/)
 - ⚡ Fun fact: React is not a framework
 
