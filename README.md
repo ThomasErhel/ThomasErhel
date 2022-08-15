@@ -8,11 +8,11 @@
 - 🏴‍☠️ Kali enthusiast
 - ❤️‍🔥 Wikipedia, TED, WWF
 - 💯 Performances: Check my [website](https://monproweb.io) with lighthouse and EcoIndex you will see the truth
-- 🧬 20 years + experience in dev stuff and i will not leave until i succeed. [The proof](http://jojo5040.free.fr/)
+- 🧬 20 years + experience in dev stuff and i will not leave until i succeed [The proof](http://jojo5040.free.fr/)
 - 🎧 Music: [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
 - ⚡ Fun fact: React is not a framework
 
-🫵 You can't ignore me anymore i'm deserve to be here.
+🫵 You can't ignore me anymore i'm deserve to be here
 
 #ZeroKnowledge
 #PracticeMakesPerfect
