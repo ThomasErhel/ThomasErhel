@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on [Ethereum](https://ethereum.org/fr/contributing/translation-program/contributors/) [React](https://opencollective.com/create-react-app) [Ubuntu](https://launchpad.net/~thomaserhel)
 - 📫 How to reach me:  `thomas.erhel@gmail.com`
 - 👨‍🎓 Achievements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google (Automation with Python) 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦
-- 💯 Performances: Check my [website](https://monproweb.io) with lighthouse and EcoIndex you will see the truth
 - 🧬 Experience: 20 years + in dev stuff and i will not leave until i succeed [The proof](http://jojo5040.free.fr/)
+- 💯 Performances: Check my [website](https://monproweb.io) with lighthouse and EcoIndex you will see the truth
 - ❤️‍🔥 WWF, Wikipedia, TED
 - 🏴‍☠️ Kali enthusiast
 - 🎧 Music: [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
