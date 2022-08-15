@@ -14,7 +14,7 @@
 
 🫵 You can't ignore me anymore i'm deserve to be here
 
-⚠️ [Social exclusion](https://en.wikipedia.org/wiki/Social_exclusion)
+⚠️ [Social exclusion](https://en.wikipedia.org/wiki/Social_exclusion) ⚠️
 
 #ZeroKnowledge
 #PracticeMakesPerfect
