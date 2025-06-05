@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Quasareum](https://quasareum.com) & [Amav Sophro](https://amavsophro.com)
 - 📫 How to reach me:  `thomas.erhel@gmail.com`
-- 👨‍🎓 Achievements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google (Automation with Python) 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦, I took CS50 🐥, Meta Front-End Developer ⚛️, Machine Learning & reinforcement learning in Finance.
+- 👨‍🎓 Achievements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google (Automation with Python) 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦, I took CS50 🐥, Meta Front-End Developer ⚛️, Machine Learning & reinforcement learning in Finance, Quantum Finance.
 - 🎧 Music: [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
 
 #ZeroKnowledge
