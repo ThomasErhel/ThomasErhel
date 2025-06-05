@@ -1,19 +1,13 @@
 ### Hi there, I'm Thomas! 👋
 
-- 🔭 I’m currently working on [Mon Pro Web](https://monproweb.eth.limo) & BlockStay
-- 🌱 I’m currently learning Blockchain at Alchemy University (Final project)
-- 👯 I’m looking to collaborate on [Ethereum](https://ethereum.org/fr/contributing/translation-program/contributors/)
+- 🔭 I’m currently working on [Quasareum](https://quasareum.com) & [Amav Sophro](https://amavsophro.com)
 - 📫 How to reach me:  `thomas.erhel@gmail.com`
-- 👨‍🎓 Achievements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google (Automation with Python) 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦, I took CS50 🐥, Meta Front-End Developer ⚛️
-- ❤️‍🔥 WWF, Wikipédia, TED
+- 👨‍🎓 Achievements: FreecodeCamp(FullStack Developer) 🕊, OpenclassRooms (Software development expert) 👨‍💻, Google (Automation with Python) 🐍, London App Brewery (Flutter development bootcamp with Dart) 🐦, I took CS50 🐥, Meta Front-End Developer ⚛️, Machine Learning & reinforcement learning in Finance.
 - 🎧 Music: [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
-- ⚡ Fun fact: React is not a framework
 
 #ZeroKnowledge
 #PracticeMakesPerfect
 #NeverGiveUp
-#FreeUkraine
-#BlackLivesMatter
 
 ![Ubuntocat](ubuntocat.gif)
 
