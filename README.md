@@ -1,7 +1,7 @@
 ### Hi there, I'm Thomas! 👋
 
 - 🔭 I’m currently working on [Quasareum](https://quasareum.com) & [Amav Sophro](https://amavsophro.com)
-- 📫 How to reach me:  `thomas.erhel@gmail.com`
+- 📫 How to reach me:  `contact@quasareum.com`
 - 👨‍🎓 Achievements: [LinkedIn](https://www.linkedin.com/in/thomaserhel/)
 - 🎧 Music: [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
 
