@@ -14,10 +14,9 @@
 ### 🛠️ Tech Stack
 
 ```
-Languages    →  Python • TypeScript • Solidity
-Trading      →  Orderflow • Auction Market Theory • Volume Profile
-ML/AI        →  Claude Code • Quantitative Finance
-Blockchain   →  Ethereum • DeFi • Zero Knowledge
+Prompting    →  Prompt Engineering • Vibe Coding
+Quant        →  QRL • QML • Quantum Finance
+Blockchain   →  Ethereum • Hyperliquid L1
 ```
 
 ---
