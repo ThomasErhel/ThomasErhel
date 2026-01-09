@@ -1,13 +1,38 @@
-### Hi there, I'm Thomas! 👋
+## Hi there, I'm Thomas! 👋
 
-- 🔭 I’m currently working on [Quasareum](https://quasareum.com) & [Amav Sophro](https://amavsophro.com)
-- 📫 How to reach me:  `contact@quasareum.com`
-- 👨‍🎓 Achievements: [LinkedIn](https://www.linkedin.com/in/thomaserhel/)
-- 🎧 Music: [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
+### 🚀 Currently Building
 
-#ZeroKnowledge
-#PracticeMakesPerfect
-#NeverGiveUp
+| Project | Description |
+|---------|-------------|
+| [Quasareum](https://quasareum.com) | Software Development • Algo Trading • ML • Quant Finance |
+| [PerpLog](https://perplog.com) | Trading Journal for DEX Traders |
+| [AmavSophro](https://amavsophro.com) | Sophrology Practice |
+| Sophrea | Sophrology Application *(in development)* |
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThomasErhel&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasErhel&layout=compact&card_width=250&hide_border=true"/>
+---
+
+### 🛠️ Tech Stack
+
+```
+Languages    →  Python • TypeScript • Solidity
+Trading      →  Orderflow • Auction Market Theory • Volume Profile
+ML/AI        →  Claude Code • Quantitative Finance
+Blockchain   →  Ethereum • DeFi • Zero Knowledge
+```
+
+---
+
+### 📫 Connect
+
+- ✉️ Email: `contact@quasareum.com`
+- 💼 LinkedIn: [Thomas Erhel](https://www.linkedin.com/in/thomaserhel/)
+
+---
+
+### 🎧 Coding Vibes
+
+🎵 [lofi hip hop radio - beats to relax/study to](https://youtu.be/jfKfPfyJRdk)
+
+---
+
+`#ZeroKnowledge` • `#PracticeMakesPerfect` • `#NeverGiveUp`
