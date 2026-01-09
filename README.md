@@ -16,7 +16,7 @@
 ```
 Prompting    →  Prompt Engineering • Vibe Coding
 Quant        →  QRL • QML • Quantum Finance
-Blockchain   →  Ethereum • Hyperliquid L1
+Blockchain   →  Ethereum • Hyperliquid
 ```
 
 ---
