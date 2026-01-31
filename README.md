@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 
 ```
-Prompting    →  Prompt Engineering • Vibe Coding
+BMad         →  Breakthrough Method for Agile Ai Driven Development
 Quant        →  QRL • QML • Quantum Finance
 Blockchain   →  Ethereum • Hyperliquid
 ```
